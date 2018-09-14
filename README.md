@@ -1,2 +1,2 @@
 # Project2
-Project 2
+Locally hosted multiplayer trivia app utilizing socket.io, nodejs, javascript, bootstrap, npm, and more.
